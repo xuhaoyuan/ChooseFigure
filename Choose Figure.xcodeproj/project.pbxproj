@@ -428,6 +428,7 @@
 			baseConfigurationReference = A79F72DA4A4749D64262BD35 /* Pods-Choose Figure.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 4Z3JQR6HG4;
 				INFOPLIST_FILE = "Choose Figure/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -444,6 +445,7 @@
 			baseConfigurationReference = FC1B388C74AE72B8C3E92466 /* Pods-Choose Figure.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 4Z3JQR6HG4;
 				INFOPLIST_FILE = "Choose Figure/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
