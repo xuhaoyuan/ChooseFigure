@@ -17,3 +17,4 @@ This is a simple game. All you need is to choose a right figure. You have 3 live
 	<img src="src/level_100.png" width=30%>
 </div>
 
+Fork by https://github.com/ISosnovik/chooseFigure
