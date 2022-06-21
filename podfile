@@ -1,0 +1,16 @@
+source 'https://cdn.cocoapods.org/' # CDN加速
+platform :ios, '12.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target 'Choose Figure' do
+
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'SwiftEntryKit'
+  pod 'XHYCategories'
+  pod 'SnapKit'
+
+end
+
+
